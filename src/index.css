@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app-header {
+  background-color: green;
+}
+
+.app-logo {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}
